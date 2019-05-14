@@ -59,6 +59,7 @@ Some examples of possible combinations
 |0|1|1|
 |1|0|1|
 |1|1|0|
+
 ```Z = NOT(A AND B)```
 
 |A|B|Z|
