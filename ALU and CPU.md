@@ -32,6 +32,7 @@ CPU obeys it's instruction set
 ## Binary addition
 
 XOR gate
+
 |A|B|Z|
 |-|-|-|
 |0|0|0|
