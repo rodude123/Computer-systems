@@ -4,6 +4,8 @@
 
 ## Not Gate
 
+```Z = A and B```
+
 |![NOT gate](https://www.computerscience.gcse.guru/wp-content/uploads/2016/11/NOT-1-255x127.png)|
 |:-------------------------------------------------------------------------------------------:|
 |                                      *Example of a NOT gate*                                |
@@ -16,8 +18,6 @@
 |1|0|
 
 ## And Gate
-
-```Z = A and B```
 
 |![AND gate](https://www.computerscience.gcse.guru/wp-content/uploads/2016/11/AND-255x127.png)|
 |:-------------------------------------------------------------------------------------------:|
