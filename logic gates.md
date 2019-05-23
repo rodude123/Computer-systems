@@ -4,13 +4,11 @@
 
 ## Not Gate
 
-```Z = A and B```
-
 |![NOT gate](https://www.computerscience.gcse.guru/wp-content/uploads/2016/11/NOT-1-255x127.png)|
 |:-------------------------------------------------------------------------------------------:|
 |                                      *Example of a NOT gate*                                |
 
-```Z = Not A```
+```Z = NOT A```
 
 |A|B|
 |:-:|:-:|
@@ -22,6 +20,8 @@
 |![AND gate](https://www.computerscience.gcse.guru/wp-content/uploads/2016/11/AND-255x127.png)|
 |:-------------------------------------------------------------------------------------------:|
 |                                      *Example of an AND gate*                               |
+
+```Z = A AND B```
 
 |A|B|Z|
 |:-:|:-:|:-:|
@@ -36,7 +36,7 @@
 |:-----------------------------------------------------------------------------------------:|
 |                                      *Example of and OR gate*                             |
 
-```Z = A or B```
+```Z = A OR B```
 
 |A|B|Z|
 |:-:|:-:|:-:|
@@ -50,7 +50,7 @@ Some examples of possible combinations
 
 
 
-```Z = NOT(A or B)```
+```Z = NOT(A OR B)```
 
 |A|B|Z|
 |:-:|:-:|:-:|
