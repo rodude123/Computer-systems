@@ -4,6 +4,10 @@
 
 ## Not Gate
 
+|![NOT gate](https://www.computerscience.gcse.guru/wp-content/uploads/2016/11/NOT-1-255x127.png)|
+|:-------------------------------------------------------------------------------------------:|
+|                                      *Example of a NOT gate*                                |
+
 ```Z = Not A```
 
 |A|B|
@@ -15,9 +19,9 @@
 
 ```Z = A and B```
 
-|![Last in first out](https://www.computerscience.gcse.guru/wp-content/uploads/2016/11/AND-255x127.png)|
-|:----------------------------:|
-|*Example of a last in first out behaviour*|
+|![AND gate](https://www.computerscience.gcse.guru/wp-content/uploads/2016/11/AND-255x127.png)|
+|:-------------------------------------------------------------------------------------------:|
+|                                      *Example of an AND gate*                               |
 
 |A|B|Z|
 |:-:|:-:|:-:|
@@ -26,7 +30,11 @@
 |1|0|0|
 |1|1|1|
 
-## or 
+## or
+
+|![OR gate](https://www.computerscience.gcse.guru/wp-content/uploads/2016/11/OR-255x127.png)|
+|:-----------------------------------------------------------------------------------------:|
+|                                      *Example of and OR gate*                             |
 
 ```Z = A or B```
 
