@@ -30,7 +30,7 @@
 |1|0|0|
 |1|1|1|
 
-## or
+## Or
 
 |![OR gate](https://www.computerscience.gcse.guru/wp-content/uploads/2016/11/OR-255x127.png)|
 |:-----------------------------------------------------------------------------------------:|
@@ -49,6 +49,7 @@
 Some examples of possible combinations
 
 
+### NOR Gate
 
 ```Z = NOT(A OR B)```
 
@@ -67,6 +68,8 @@ Some examples of possible combinations
 |0|1|1|
 |1|0|1|
 |1|1|0|
+
+### NAND Gate
 
 ```Z = NOT(A AND B)```
 
