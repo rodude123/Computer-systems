@@ -6,15 +6,15 @@
 
    1. Offers a user interface to start programs on the machine
  
-   2. Manages a computers and allows the programmer to make use of resources such as the CPU,
-      memory, file storage, input output and network connections
+   2. Manages a computers components and allows the programmer to make use of resources such as the CPU,
+      memory, file storage, network connections and input and outputs
  
    3. Supports systems calls
        - A system call is a way for programs to interact with the operating system.A system call is made when 
          a request is sent to the operating systems kernel. 
        - A Kernel is the first section of the operating system to load into the memory. 
  
-   4. Offers protection against threats to such as malware viruses, remote hacker intrusions etc.
+   4. Offers protection against threats such as malware viruses, remote hacker intrusions etc.
        - It protects itself using methods such as regular patch updates, installing antiviruses,
          and checking incoming and outgoing traffic through a firewall. 
       
@@ -93,6 +93,8 @@
 * Linux is more secure than Windows since threats need to be developed to 
   suit the specific build of the OS compared to Windows where most people 
   have the same version
+
+
 
 
 
