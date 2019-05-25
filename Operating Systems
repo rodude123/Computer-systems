@@ -54,24 +54,48 @@
 
 *It is  loaded into a protected area in the memory so that it isnt overwritten. 
 
- ##Windows
+##Windows
  
- * Created by microsoft 
- * Provides a GUI(graphical user interface)meaning commands dont need to be memorised 
- * Users dont have access to the source code, only memembers of selected groups do 
- * Few customisation options 
- * License required 
- * Has Command Line
- *
- *
- *
+* Created by microsoft 
+
+* Provides a GUI(graphical user interface)meaning commands dont need to be memorised 
+
+* Users dont have access to the source code, only memembers of selected groups do 
+
+* Few customisation options
  
- ##Linux
+* License required 
+
+* Has Command Line
+
+* Interface is simple to operate
+
+* Easily accessible online support
+
+* Targeted regularly by developers of malware and viruses 
+
+##Linux
  
- *
- *
- *
+* Users have access to the source code
+
+* Very customisable 
+
+* Linux is free to use 
+
+* Linux also has command line that can be used for daily tasks and administration
+
+* More complicated to install than Windows however is easy to operate once installed
+
+* Many communities that can offer support to the user 
+
+* Linux allows the user to update the OS themselves 
+
+* Linux is more secure than Windows since threats need to be developed to 
+  suit the specific build of the OS compared to Windows where most people 
+  have the same version
+
+
+
+
  
- 
- ###https://www.educba.com/linux-vs-windows/ 
  
