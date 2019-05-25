@@ -6,7 +6,7 @@
 
    1. Offers a user interface to start programs on the machine
  
-   2. Manages a computers andf allows the programmer to make use of resources such as the CPU,
+   2. Manages a computers and allows the programmer to make use of resources such as the CPU,
       memory, file storage, input output and network connections
  
    3. Supports systems calls
@@ -56,9 +56,22 @@
 
  ##Windows
  
- * 
+ * Created by microsoft 
+ * Provides a GUI(graphical user interface)meaning commands dont need to be memorised 
+ * Users dont have access to the source code, only memembers of selected groups do 
+ * Few customisation options 
+ * License required 
+ * Has Command Line
+ *
+ *
+ *
  
  ##Linux
  
  *
+ *
+ *
+ 
+ 
+ ###https://www.educba.com/linux-vs-windows/ 
  
