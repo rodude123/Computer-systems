@@ -2,7 +2,7 @@
 
 ## What Is An Operating System:
 
-An operating system is a program that:
+* An operating system is a program that:
 
    1. Offers a user interface to start programs on the machine
  
@@ -10,35 +10,35 @@ An operating system is a program that:
       memory, file storage, network connections and input and outputs
  
    3. Supports systems calls
-       - A system call is a way for programs to interact with the operating system.A system call is made when 
+     - A system call is a way for programs to interact with the operating system.A system call is made when 
          a request is sent to the operating systems kernel. 
-       - A Kernel is the first section of the operating system to load into the memory. 
+     - A Kernel is the first section of the operating system to load into the memory. 
  
    4. Offers protection against threats such as malware viruses, remote hacker intrusions etc.
-       - It protects itself using methods such as regular patch updates, installing antiviruses,
+     - It protects itself using methods such as regular patch updates, installing antiviruses,
          and checking incoming and outgoing traffic through a firewall. 
       
-Common types of Operating Systems include Microsoft Windows, Linux, Ubuntu Linux and macOS.
+* Common types of Operating Systems include Microsoft Windows, Linux, Ubuntu Linux and macOS.
 
 ## The Kernel 
 
-The kernel is a one of the major subsystems in a operating system which is controlled by the user. 
+* The kernel is a one of the major subsystems in a operating system which is controlled by the user. 
 
-It is controlled via the shell.
+* It is controlled via the shell.
 
-The kernel acts as the central service for all the parts of the computer and is in charge of all the 
-computers resources such as: 
+* The kernel acts as the central service for all the parts of the computer and is in charge of all the 
+ computers resources such as: 
    
   1. Memory management 
-        - Allocates memory to programs 
-        - Manages virtual memory 
-        - Protects agaisnt malware
+    - Allocates memory to programs 
+    - Manages virtual memory 
+    - Protects agaisnt malware
   
   2. Task management
-        -  Process managament: Launch Processes(process = program + state of program) and 
+    -  Process managament: Launch Processes(process = program + state of program) and 
            Process table(list of running processes)                                                          
-        -  Context switching and time-slicing 
-        -  Interrupt handler   
+    -  Context switching and time-slicing 
+    -  Interrupt handler   
         -  Program privilege levels 
      
   3. File management
@@ -50,9 +50,9 @@ computers resources such as:
         - Uses disk drivers which allows for the opening, reading, writing and closing of devices 
           such as printers, mice, keybaords etc.
      
-The kernel needs to be small and efficient. 
+* The kernel needs to be small and efficient. 
 
-It is  loaded into a protected area in the memory so that it isnt overwritten. 
+* It is  loaded into a protected area in the memory so that it isnt overwritten. 
 
 ## Windows
  
