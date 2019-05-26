@@ -11,3 +11,29 @@
   
 ## Tertiary storage
   * Magnetic tape - it is very old technology and is used primarly for backups due to having a very high capacity and its low cost. 
+
+## RAID storage 
+* RAID storage stands for redundant array of independant disks 
+* RAID is a number of connected hard drives that are set up to in a way so as to help the speed and perfomance of a computer
+* RAID uses several techniques such as:
+ - spanning and software striping 
+ - mirroring 
+ - duplexing 
+ - deferred 
+ - hot swapping 
+ - hot sparing
+ - spindle sychronisation 
+ 
+#### types of RAID 
+1. RAID 0
+2. RAID 1
+3. RAID 2
+4. RAID 3
+5. RAID 4
+6. RAID 5
+7. RAID 7
+8. RAID 10
+9. RAID 53
+
+* RAIDs can also be combined to create types such as RAID 0/1 which would combine the mirroring of RAID 1 and the striping 
+of RAID 0. 
