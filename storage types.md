@@ -15,14 +15,15 @@
 ## RAID storage 
 * RAID storage stands for redundant array of independant disks 
 * RAID is a number of connected hard drives that are set up to in a way so as to help the speed and perfomance of a computer
-* RAID uses several techniques such as:
- - spanning and software striping 
- - mirroring 
- - duplexing 
- - deferred 
- - hot swapping 
- - hot sparing
- - spindle sychronisation 
+
+### RAID techniques:
+ 1. spanning and software striping 
+ 2. mirroring 
+ 3. duplexing 
+ 4. deferred 
+ 5. hot swapping 
+ 6. hot sparing
+ 7. spindle sychronisation 
  
 #### Types of RAID 
 1. RAID 0
