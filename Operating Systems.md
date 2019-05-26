@@ -1,8 +1,8 @@
-#Operating Systems 
+# Operating Systems 
 
-##What Is An Operating System:
+## What Is An Operating System:
 
-*An operating system is a program that:
+An operating system is a program that:
 
    1. Offers a user interface to start programs on the machine
  
@@ -18,43 +18,43 @@
        - It protects itself using methods such as regular patch updates, installing antiviruses,
          and checking incoming and outgoing traffic through a firewall. 
       
-*Common types of Operating Systems include Microsoft Windows, Linux, Ubuntu Linux and macOS.
+Common types of Operating Systems include Microsoft Windows, Linux, Ubuntu Linux and macOS.
 
-##The Kernel 
+## The Kernel 
 
-*The kernel is a one of the major subsystems in a operating system which is controlled by the user. 
+The kernel is a one of the major subsystems in a operating system which is controlled by the user. 
 
-*It is controlled via the shell.
+It is controlled via the shell.
 
-*The kernel acts as the central service for all the parts of the computer and is in charge of all the 
- computers resources such as: 
+The kernel acts as the central service for all the parts of the computer and is in charge of all the 
+computers resources such as: 
    
-  1.Memory management
-     - Allocates memory to programs 
-     - Manages virtual memory 
-     - Protects agaisnt malware
+  1. Memory management 
+        - Allocates memory to programs 
+        - Manages virtual memory 
+        - Protects agaisnt malware
   
-  2.Task management
-     -  Process managament: Launch Processes(process = program + state of program) and 
-        Process table(list of running processes)                                                          
-     -  Context switching and time-slicing 
-     -  Interrupt handler   
-     -  Program privilege levels 
+  2. Task management
+        -  Process managament: Launch Processes(process = program + state of program) and 
+           Process table(list of running processes)                                                          
+        -  Context switching and time-slicing 
+        -  Interrupt handler   
+        -  Program privilege levels 
      
-  3.File management
-     -  program requests to open read, write and close files 
-     -  set and check permissions 
-     -  buffering and prefetching handling(transfer data from main memory to temporary storage)
+  3. File management
+        -  program requests to open read, write and close files 
+        -  set and check permissions 
+        -  buffering and prefetching handling(transfer data from main memory to temporary storage)
 
-  5.Disk drive management 
-     - Uses disk drivers which allows for the opening, reading, writing and closing of devices 
-       such as printers, mice, keybaords etc.
+  5. Disk drive management 
+        - Uses disk drivers which allows for the opening, reading, writing and closing of devices 
+          such as printers, mice, keybaords etc.
      
-*The kernel needs to be small and efficient. 
+The kernel needs to be small and efficient. 
 
-*It is  loaded into a protected area in the memory so that it isnt overwritten. 
+It is  loaded into a protected area in the memory so that it isnt overwritten. 
 
-##Windows
+## Windows
  
 * Created by microsoft 
 
@@ -74,7 +74,7 @@
 
 * Targeted regularly by developers of malware and viruses 
 
-##Linux
+## Linux
  
 * Users have access to the source code
 
