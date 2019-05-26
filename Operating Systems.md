@@ -36,19 +36,19 @@
   
   2. Task management
     -  Process managament: Launch Processes(process = program + state of program) and 
-           Process table(list of running processes)                                                          
+       Process table(list of running processes)                                                          
     -  Context switching and time-slicing 
     -  Interrupt handler   
-        -  Program privilege levels 
+    -  Program privilege levels 
      
   3. File management
-        -  program requests to open read, write and close files 
-        -  set and check permissions 
-        -  buffering and prefetching handling(transfer data from main memory to temporary storage)
+    -  program requests to open read, write and close files 
+    -  set and check permissions 
+    -  buffering and prefetching handling(transfer data from main memory to temporary storage)
 
   5. Disk drive management 
-        - Uses disk drivers which allows for the opening, reading, writing and closing of devices 
-          such as printers, mice, keybaords etc.
+    - Uses disk drivers which allows for the opening, reading, writing and closing of devices 
+      such as printers, mice, keybaords etc.
      
 * The kernel needs to be small and efficient. 
 
