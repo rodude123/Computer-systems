@@ -18,25 +18,25 @@
 
 ### RAID techniques:
  1. Spanning and software striping (RAID 0)
-    Splitting information and writing it across multiple disk drives. 
+     - Splitting information and writing it across multiple disk drives. 
     
  2. Mirroring 
-    Duplication of data between disks 
+     - Duplication of data between disks 
  
  3. Duplexing
-    Duplicates disk drive and disk controller 
+     - Duplicates disk drive and disk controller 
     
  4. Deferred
-    Data is stored in cache but moves to the hard drive when the disk drive is avaiable 
+     - Data is stored in cache but moves to the hard drive when the disk drive is avaiable 
     
  5. Hot swapping
-    Data is replaced and moved from a failed disk drive onto a new one while the system is still operational
+     - Data is replaced and moved from a failed disk drive onto a new one while the system is still operational
     
  6. Hot sparing
     Disk drive is automatically initialised into the array when another fails
     
  7. Spindle sychronisation 
-    The synchronisation of disk drives allowing the array to similtaneously write information  
+      - The synchronisation of disk drives allowing the array to similtaneously write information  
  
 ### Types of RAID 
 1. RAID 0
