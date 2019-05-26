@@ -10,13 +10,13 @@
       memory, file storage, network connections and input and outputs
  
    3. Supports systems calls
-     - A system call is a way for programs to interact with the operating system.A system call is made when 
-         a request is sent to the operating systems kernel. 
-     - A Kernel is the first section of the operating system to load into the memory. 
+      (A system call is a way for programs to interact with the operating system.A system call is made when 
+       a request is sent to the operating systems kernel.)
+      (A Kernel is the first section of the operating system to load into the memory.) 
  
    4. Offers protection against threats such as malware viruses, remote hacker intrusions etc.
-     - It protects itself using methods such as regular patch updates, installing antiviruses,
-         and checking incoming and outgoing traffic through a firewall. 
+      (It protects itself using methods such as regular patch updates, installing antiviruses,
+       and checking incoming and outgoing traffic through a firewall.) 
       
 * Common types of Operating Systems include Microsoft Windows, Linux, Ubuntu Linux and macOS.
 
