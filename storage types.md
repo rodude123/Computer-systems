@@ -25,7 +25,7 @@
  6. hot sparing
  7. spindle sychronisation 
  
-#### Types of RAID 
+### Types of RAID 
 1. RAID 0
 2. RAID 1
 3. RAID 2
