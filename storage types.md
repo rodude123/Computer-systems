@@ -1,4 +1,4 @@
-*# Storage types
+# Storage types
 
 ## Primary storage
   * ROM - Read Only memory keeps information if no power, used to help with startup as in it tells the CPU what to do on startup
