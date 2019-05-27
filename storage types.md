@@ -1,7 +1,7 @@
 # Storage types
-* Diagram of how storage work 
+ 
 
-
+|![A Diagram of how storage work](https://www.computerhope.com/jargon/s/storage.jpg)|
 
 ## Primary storage
   * ROM - Read Only memory keeps information if no power, used to help with startup as in it tells the CPU what to do on startup
