@@ -15,7 +15,8 @@
 ## Secodary storage
 * Can also be refered to external memory, secondary memory, and auxiliary storage
 * Is non-volatile
-*
+* Holds data until its deleted or overwritten 
+* Cheaper than primary storage 
 
 ### Types of secondary storage 
   * Hard drive - slower and stored further from the CPU which is why it is slower. It is also lot bigger than primary storage. Only used for safe keeping e.g, OS's
@@ -25,7 +26,7 @@
   * Magnetic tape - it is very old technology and is used primarly for backups due to having a very high capacity and its low cost.
   
   
-|![Computer storage](https://www.computerhope.com/jargon/s/storage.jpg)|  
+![Computer storage](https://www.computerhope.com/jargon/s/storage.jpg)  
  
 
 ## RAID storage 
@@ -49,7 +50,7 @@
      - Data is replaced and moved from a failed disk drive onto a new one while the system is still operational
     
  6. Hot sparing
-    Disk drive is automatically initialised into the array when another fails
+    - a disk drive is automatically initialised into the array when another fails
     
  7. Spindle sychronisation 
       - The synchronisation of disk drives allowing the array to similtaneously write information  
