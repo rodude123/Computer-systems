@@ -23,12 +23,16 @@
   * SSD  - slower than primary but faster than hard drives because there is no mechanical parts. It is a costlier than hard     drive
   
 #### Why we need it 
-  * Without secondary storage we wouldnt be able to save any information from the computer after is powered off, however b .     with secondary storage we are able to save files and recover the last saved version of a document 
+  * Without secondary storage we wouldnt be able to save any information from the computer after is powered off, however         with secondary storage we are able to save files and recover the last saved version of a document 
   
 ## Tertiary storage
-
+   * The main aim of tertiary storage is to store large amounts of data for a cheap cost.  
+   * It is primarily used for archiving rarely accessed information
+   * It is much slower than secondary storage
+   * When a computer needs to read information from tertiary storage, it checks the catalog database to                          determine which tape or disc contains the information.    
 ### Types of tertiary storage 
   * Magnetic tape - it is very old technology and is used primarly for backups due to having a very high capacity and its       low cost.
+  * Optical disks -  
   
   
 |![Computer storage](https://www.computerhope.com/jargon/s/storage.jpg)|
