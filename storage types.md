@@ -12,9 +12,9 @@
 ## Tertiary storage
   * Magnetic tape - it is very old technology and is used primarly for backups due to having a very high capacity and its low cost.
   
-  
+###  
 |![A Diagram of how storage work](https://www.computerhope.com/jargon/s/storage.jpg)|  
-  
+###  
 
 ## RAID storage 
 * RAID storage stands for redundant array of independant disks 
