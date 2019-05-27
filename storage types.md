@@ -1,8 +1,5 @@
 # Storage types
  
-
-|![A Diagram of how storage work](https://www.computerhope.com/jargon/s/storage.jpg)|
-
 ## Primary storage
   * ROM - Read Only memory keeps information if no power, used to help with startup as in it tells the CPU what to do on startup
   * RAM - Random Access Memory - located close to the cpu, fast memory, very expensive and so computers don't have much. Once a computer shuts down the data gets lost
@@ -13,7 +10,11 @@
   * SSD  - slower than primary but faster than hard drives because there is no mechanical parts. It is a costlier than hard drive
   
 ## Tertiary storage
-  * Magnetic tape - it is very old technology and is used primarly for backups due to having a very high capacity and its low cost. 
+  * Magnetic tape - it is very old technology and is used primarly for backups due to having a very high capacity and its low cost.
+  
+  
+|![A Diagram of how storage work](https://www.computerhope.com/jargon/s/storage.jpg)|  
+  
 
 ## RAID storage 
 * RAID storage stands for redundant array of independant disks 
