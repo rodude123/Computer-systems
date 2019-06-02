@@ -6,7 +6,7 @@
 
    1. Offers a user interface to start programs on the machine
  
-   2. Manages a computers components and allows the programmer to make use of resources such as the CPU,
+   2. (Via the Kernel)Manages a computers components and allows the programmer to make use of resources such as the CPU,
       memory, file storage, network connections and input and outputs
  
    3. Supports systems calls
