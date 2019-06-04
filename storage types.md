@@ -4,6 +4,7 @@
   * Primary storage holds the least out of all memory types and usally only holds information for a short period of time         while the PC is running.
   * Has much lower access time and faster perfomance but more costly than secondary storage 
   * Can also be refered to as internal memory, main memory, main storage, and primary memory. 
+  * used to load the OS
 
 ### Types of primary storage 
   * ROM - Read Only memory keeps information if no power, used to help with startup as in it tells the CPU what to do on         startup
