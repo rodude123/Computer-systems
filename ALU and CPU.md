@@ -1,7 +1,10 @@
 # ALU and CPU
 
 ## Control unit
-  *
+  * The control unit obtains data / instructions from memory
+  * Interprets / decodes the instructions into commands / signals
+  * Controls transfer of instructions and data in the CPU
+  * Coordinates the parts of the CPU
   
 ## Registers
   *
