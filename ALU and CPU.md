@@ -7,7 +7,8 @@
   * Coordinates the parts of the CPU
   
 ## Registers
-  *
+  * When referring to a CPU, the terms internal register, internal data bus, or register refer to how much information a processor can process at once. 
+  * Instructions are allowed to flow at a rate that is as large as the register size, which is either 16, 32, or 64-bits wide.
   
 ## ALU
   * Does all the mathematical processing of the CPU
