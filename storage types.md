@@ -12,6 +12,8 @@
   * Cache - Very very fast and very expensive which is why it is very close to the CPU and only very important information       gets stored.
   * ROM is non-volatile
   * Most RAM is volatile 
+  * ROM used for firmware updates
+  * RAM used to store running programs
   
 ## Secodary storage
   * Can also be refered to as external memory, secondary memory, and auxiliary storage
