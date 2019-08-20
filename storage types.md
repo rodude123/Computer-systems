@@ -48,7 +48,7 @@
   * RAID is a number of connected hard drives that are set up to in a way so as to help the speed and perfomance of a computer
 
 ### RAID techniques:
-  1. Spanning and software striping (RAID 0)
+  1. Striping (RAID 0)
      - Splitting information and writing it across multiple disk drives. 
     
   2. Mirroring 
@@ -82,3 +82,17 @@
 
  * RAIDs can also be combined to create types such as RAID 0/1 which would combine the mirroring of RAID 1 and the striping 
     of RAID 0. 
+    
+## Virtual memory 
+* Virtual memory is a memory management technique that allows the computer to compensate for an overworking RAM. A system using virtual memory has a section of its hardrive allocated to emulate RAM when is atcual RAM becomes overloaed. It only stores data that might be required soon. 
+* Pros: Allows the user to use more RAM than they actually have and reduces risk of external fragmentation.
+* Cons: can be slower since the access speed of the harddrive is slower than the RAM, thrashing, incorrect size allocation 
+
+## Cloud computing 
+* utility storage 
+* Allows users to view, upload, download and store data from a collection of remote servers. 
+* an abstract 'cloud' of computers that provides distributed storage and processing power. 
+* pros: can be accessed anywhere, same data can be viewed across multiple deivces without having to be sent, cheap, can be used to back up data 
+* cons: slower than physical storage, vunerability, cannot be accessed without internet, servers can go down making data unaccessible.
+
+
